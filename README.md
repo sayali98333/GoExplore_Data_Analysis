@@ -3,6 +3,7 @@
 An end-to-end analytics project that takes raw CSV sales data through Google Sheets and BigQuery into an interactive Data Studio (Looker Studio) dashboard for GoExplore's CEO and department heads.
 
 **Dashboard preview:** The full report is available as a PDF The full report is available as a PDF [Data_Studio_Reporti.pdf](Data_Studio_Reporti.pdf)
+
 GoExplore is a camping and hiking supplier operating across 21 markets, with 289 retailers and 149,257 transactions.
 
 The goal is a self-service dashboard that lets the CEO (Sabah) and department heads explore revenue, units sold, retailer performance and expansion options without writing any SQL.
