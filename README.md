@@ -2,7 +2,7 @@
 
 An end-to-end analytics project that takes raw CSV sales data through Google Sheets and BigQuery into an interactive Data Studio (Looker Studio) dashboard for GoExplore's CEO and department heads.
 
-**Dashboard preview:** The full report is available as a PDF ([`Data_Studio_Reporti.pdf`](Data_Studio_Reporti.pdf.)).
+**Dashboard preview:** The full report is available as a PDF ([`[Data_Studio_Reporti.pdf](https://github.com/sayali98333/GoExplore_Data_Analysis/blob/main/Data_Studio_Reporti.pdf)`](Data_Studio_Reporti.pdf.)).
 
 ## Project Overview
 
