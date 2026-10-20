@@ -4,9 +4,6 @@ An end-to-end analytics project that takes raw CSV sales data through Google She
 
 **Dashboard preview:** The full report is available as a PDF ([`GoExplore_Dashboard.pdf`](GoExplore_Dashboard.pdf)).
 
-
----
-
 ## Project Overview
 
 GoExplore is a camping and hiking supplier operating across 21 markets, with 289 retailers and 149,257 transactions.
