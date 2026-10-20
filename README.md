@@ -1,5 +1,3 @@
-# GoExplore_Data_Analysis
-
 # GoExplore: Self-Service Sales Analytics Dashboard
 
 An end-to-end analytics project that takes raw CSV sales data through Google Sheets and BigQuery into an interactive Data Studio (Looker Studio) dashboard for GoExplore's CEO and department heads.
