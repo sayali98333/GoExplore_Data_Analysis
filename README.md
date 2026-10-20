@@ -2,11 +2,8 @@
 
 An end-to-end analytics project that takes raw CSV sales data through Google Sheets and BigQuery into an interactive Data Studio (Looker Studio) dashboard for GoExplore's CEO and department heads.
 
-**Dashboard preview:** screenshots of all 3 pages are in the [`images`](images/) folder, and the full report is available as a PDF ([`GoExplore_Dashboard.pdf`](GoExplore_Dashboard.pdf)).
+**Dashboard preview:** The full report is available as a PDF ([`GoExplore_Dashboard.pdf`](GoExplore_Dashboard.pdf)).
 
-![Executive Overview](images/page1_executive_overview.png)
-![Retailer & Product Performance](images/page2_retailer_product_performance.png)
-![Market Expansion Readiness](images/page3_market_expansion_readiness.png)
 
 ---
 
